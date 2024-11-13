@@ -1,8 +1,8 @@
 class Noirwatch < Formula
   desc "Monitor websites for changes and send notifications"
   homepage "https://github.com/binarynoir/noirwatch"
-  url "https://github.com/binarynoir/noirwatch/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "650febf8988367ca20b6076a8b901ad2c40cad001720dcaecf32f002ee5fdf5e"
+  url "https://github.com/binarynoir/noirwatch/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "a92c4d498e8744ddd8c8d7bef3569bcb1e539ead7bcc512d66e519ad5eee95f3"
 
   depends_on "md5sha1sum"
   depends_on "jq"
