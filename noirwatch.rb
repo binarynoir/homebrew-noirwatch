@@ -5,7 +5,7 @@ class Noirwatch < Formula
   sha256 "dfb6ce23d45a54f919ffed5981c026f04413668e7c66cc300cebe852be3550f5"
 
   depends_on "bash"
-  depends_on "coreutls"
+  depends_on "coreutils"
 
   def install
     bin.install "noirwatch"
